@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Flux
+Label: Flux
+Codename: noble
+Date: Sat, 11 Jul 2026 02:22:23 UTC
+Architectures: amd64
+Components: main
+Description: Flux apt repository (Ubuntu 24.04)
+MD5Sum:
+ dc46d4e81a60579e97541b22d369eaf5 431 main/binary-amd64/Packages
+ 60b19224ed7e0a193b8e0f1e906fed1a 337 main/binary-amd64/Packages.gz
+ 74a4c92f2c07fa85539c58d421b3dca0 109 main/binary-amd64/Release
+SHA1:
+ e59efa6e450137071d3d11c7d62df9f62a066b65 431 main/binary-amd64/Packages
+ 568bd3d0081493d8b9a15f35286c7b68b5c19c20 337 main/binary-amd64/Packages.gz
+ 2a50c7ec92cc818b4375580ceb7fc30380632d08 109 main/binary-amd64/Release
+SHA256:
+ 688eb02cc0d11ab1e572a3ec85cfcf1ccaa0f92a81173c39aa70c9821ecfa89e 431 main/binary-amd64/Packages
+ c678f237e14a96c34e68b3992e7faea095b4eb0c29a2a2d1c953c34f7a1355d9 337 main/binary-amd64/Packages.gz
+ 40f515d6ef665bf58931bc1f5fee3fd5d2017a2fdcc7bb3d40578d27887288ce 109 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEcDzQ638Ijhy05hF4o7+9ckVMP2EFAmpRqN8ACgkQo7+9ckVM
+P2GAQg//Yl1Cyu5SNHokPUH6HsKRgy/46zmXvkyiFPF+98HN/bAmV33os5K8X4pj
+1XeLWN4F92vmWZ6ruFYa8a0UBu6hgBKy4jTjoK1wxtpDuS+aA96J8lvQlVGbrQDH
+/+f9PELY7JKXeSJdqSW6wEH908mHKGClv8cHsBLdxolVC/Sw+uzm/uu6CCHF5YgF
+rVIBPuVTuKTSdi1Yx8t81xlQHK0T7XHoHxKo8UOFlPS4XgScEdBGHuRPQSOkqKe2
+X/X+VSSd38m6gXI2sp0duYELztIjUzOErvWZ80CsKEAB1Vl0rNLG4QsI4Mw4JZSe
+8SUDgvQu2S0brwYEimiSGDDCjxlImoAmnTKILfQxmqGleg25pY6YhfxOUAqFGOJO
+0udTyppS7cNSIw5FycdYJRSV1eHj4zLj3jT2YOlyXqd+Dl7y52fx+2tH17UjJeMQ
+yVCrgICxeXdhITDwvarVZVU/b1vrZckuhZC4/qJq6GoeK1MqpLOeR9HGQWAJCsyQ
+jB/JMR61sbURoGOh/J+N3qocXvufMzmS1Hqvn6lXRUGmEXT3kQ9ULY313b246Jx2
+Tw4kxWHAx8C0sQ74sZa59TPc3kqocjiTw7mFA7kk4cP+ii33W+3YFp47sjUGJ0O2
+kvQcJKS+pzDQOF4/6pd5hBrxJRFDmNyrtt/j58hZIzk3rlOLgPA=
+=qz47
+-----END PGP SIGNATURE-----

@@ -1,0 +1,16 @@
+Package: flux
+Version: 0.2.2+resolute
+Architecture: amd64
+Installed-Size: 25828
+Maintainer: you
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/f/flux/flux_0.2.2+resolute_amd64.deb
+Size: 8927858
+SHA256: 72e76196e48783ad6a520f83435cd3430d7ba0dc4dd9769967a9cd116cb7617c
+SHA1: 08046a649f51e7b082a75e62102794086c545663
+MD5sum: c7e8f91f10581a774e3d74863efef3b2
+Description: A Tauri App
+ (none)
+

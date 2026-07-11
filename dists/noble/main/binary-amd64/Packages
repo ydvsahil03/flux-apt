@@ -1,0 +1,16 @@
+Package: flux
+Version: 0.2.2+noble
+Architecture: amd64
+Installed-Size: 25805
+Maintainer: you
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/f/flux/flux_0.2.2+noble_amd64.deb
+Size: 8910838
+SHA256: 6ad9eb278da4799a685d85dafb85bc49ca6a9df202ee0e39da36510cd6951cb7
+SHA1: 576608d9ae906fdc55ffaa7be91882f3ababe065
+MD5sum: 3f6723c81bc0a11ea5030eaf434dbd01
+Description: A Tauri App
+ (none)
+

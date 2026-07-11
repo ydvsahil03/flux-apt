@@ -1,0 +1,19 @@
+Origin: Flux
+Label: Flux
+Codename: jammy
+Date: Sat, 11 Jul 2026 02:22:10 UTC
+Architectures: amd64
+Components: main
+Description: Flux apt repository (Ubuntu 22.04)
+MD5Sum:
+ da079d17fbbcb8803a12a5d274ab389b 431 main/binary-amd64/Packages
+ 486cae95076593a9eb140d110b626170 337 main/binary-amd64/Packages.gz
+ 2c3260558801681db93032dd07a07247 109 main/binary-amd64/Release
+SHA1:
+ 363300508169d78269956dda96e304b5b541fd3d 431 main/binary-amd64/Packages
+ ac27373756fe0e9e2f8d3e16d340bc6b3e036a34 337 main/binary-amd64/Packages.gz
+ c247d5cfadea05b1676b2b2fb799470bedafbf0c 109 main/binary-amd64/Release
+SHA256:
+ f857a680e60d4445add00648e4bef3837c97a97a60af1668c1216c833caa2774 431 main/binary-amd64/Packages
+ 489609d707c6b30bfd04ed79dbd980616819983dd5d915d6fc604df04584d22a 337 main/binary-amd64/Packages.gz
+ 969eaf52b92e408d390ff9728335a9e0601170764a606f3b8b55007cfb90ec10 109 main/binary-amd64/Release

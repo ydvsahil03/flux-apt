@@ -1,0 +1,16 @@
+Package: flux
+Version: 0.2.2+jammy
+Architecture: amd64
+Installed-Size: 25816
+Maintainer: you
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/f/flux/flux_0.2.2+jammy_amd64.deb
+Size: 8908398
+SHA256: 16fbf890a9e1400a909c7c60252cbc38ffe0e59a47992a0a1f5a1486bdcd5aaf
+SHA1: 9633fa9e850e02e17393ccfaad315d71667f2224
+MD5sum: 1aafcf2510d71c0ec6169f73160c1e1b
+Description: A Tauri App
+ (none)
+

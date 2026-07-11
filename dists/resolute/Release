@@ -1,0 +1,19 @@
+Origin: Flux
+Label: Flux
+Codename: resolute
+Date: Sat, 11 Jul 2026 02:22:34 UTC
+Architectures: amd64
+Components: main
+Description: Flux apt repository (Ubuntu 26.04)
+MD5Sum:
+ 335e7a095465e3828d9cde4b66582597 437 main/binary-amd64/Packages
+ 2ef46934669240d2aafdd9d6496cb9ff 339 main/binary-amd64/Packages.gz
+ 876359efa74aaa6fd2438210773232a2 109 main/binary-amd64/Release
+SHA1:
+ 7ad77bdeda5541be6cf67065a46b9b13e35223aa 437 main/binary-amd64/Packages
+ 5d0e8c713ea10ee0792c6d13e2fa78c41be0e0f2 339 main/binary-amd64/Packages.gz
+ d9282f6fd998f6a0f624950c7b00f66204ef71cf 109 main/binary-amd64/Release
+SHA256:
+ a6abebebb3fac66e220c4af78c174a84a545ebccf420ea769e82f0a16fa68ba3 437 main/binary-amd64/Packages
+ 81db94888b2f15ed1eeee0a896a23d22a0560323453f81ce68ce01df808cd8f0 339 main/binary-amd64/Packages.gz
+ 0020abfc35069104712443b824407cb068aaa6a1ba79538b39534f8202952892 109 main/binary-amd64/Release
